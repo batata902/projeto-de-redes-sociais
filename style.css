@@ -1,0 +1,14 @@
+@charset 'UTF-8';
+
+body {
+    background-image: url('pacote-d013/imagens/fundo-madeira.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+img#iphone {
+    display: block;
+    margin: auto;
+}
